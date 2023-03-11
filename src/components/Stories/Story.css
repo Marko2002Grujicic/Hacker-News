@@ -1,0 +1,32 @@
+li {
+  text-align: left;
+  padding: 10px;
+}
+a,
+span {
+  color: #ea5421;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+span {
+  padding-right: 15px;
+}
+svg {
+  color: #bdc1c2;
+}
+
+#comments {
+  color: white;
+  background-color: #16a2b7;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 10px;
+}
+#score > #text {
+  color: #bdc1c2;
+}
+hr {
+  color: #bdc1c2;
+  opacity: 0.4;
+}
